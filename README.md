@@ -1,3 +1,4 @@
+
 # dominoes-guesser-c
 A C program that tries to guess if you can win your dominoes set or not, and tells you the moves you need to do to win.
 
@@ -9,7 +10,9 @@ A C program that tries to guess if you can win your dominoes set or not, and tel
 
 Example:
 
-2  4 + tab + 2  2 + tab + 0
+2
+4 + tab + 2
+2 + tab + 0
 
 # PS
 You cannot  play with anyone here and the win condition is based only in you dominoes set. The program doesnt takes the rest of the pieces left to tell if you will win or not.
